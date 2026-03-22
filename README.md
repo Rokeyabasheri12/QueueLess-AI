@@ -1,5 +1,5 @@
 # QueueLess AI
-
+![Application Preview](01.png)
 ## Overview
 
 QueueLess AI is a real-time queue prediction system designed to reduce
@@ -39,7 +39,7 @@ plan visits more effectively.
 -   Support for multiple locations
 
 ## Architecture
-
+![Solution](02.png)
 The system is built using Microsoft Azure services:
 
 -   Data Input: CCTV feeds and user check-ins\
